@@ -8,26 +8,6 @@ This project demonstrates the development of a RESTful API using Node.js and Exp
 - Search for users based on their profession.
 - Find users by their names.
 
-### Available Routes
-1. *Retrieve All Users*
-   - Path: /users
-   - *Screenshot:*  
-     ![All Users](./Images/users_list.png)
-
-2. *Get User by ID*
-   - Path: /users/:id
-   - *Screenshot:*  
-     ![User by ID](./Images/specific_user.png)
-
-3. *Search Users by Profession*
-   - Path: /users/profession/:profession
-   - *Screenshot:*  
-     ![Users by Profession](./Images/profession.png)
-
-4. *Find User by Name*
-   - Path: /users/name/:name
-   - *Screenshot:*  
-     ![User by Name](./Images/name.png)
 
 ### Lessons Learned
 Throughout the project, I gained insights into:
